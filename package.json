@@ -9,16 +9,8 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": ["onLanguage:vue"],
   "main": "./dist/extension.js",
-  "contributes": {
-    "commands": [
-      {
-        "command": "uni-components-reminder.helloWorld",
-        "title": "Hello World"
-      }
-    ]
-  },
   "scripts": {
     "vscode:prepublish": "npm run package",
     "compile": "webpack",
