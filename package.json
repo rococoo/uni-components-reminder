@@ -1,8 +1,9 @@
 {
   "name": "uni-components-reminder",
   "displayName": "uni-components-reminder",
-  "description": "read components/**/*.md to hover",
-  "version": "0.0.1",
+  "description": "用于uni-app项目，自定义组件目录下读取相应的.md文件显示在hover上",
+  "publisher": "rococoo",
+  "version": "0.0.6",
   "repository": "https://github.com/rococoo/uni-components-reminder",
   "engines": {
     "vscode": "^1.76.0"
